@@ -235,7 +235,7 @@ int main(void)
 					 *
 					 * La diferencia de precio es : r “
 					 */
-					if(flagDistancia == 0 || flagAerolineas == 0 || flagLatam == 0 || flagCalculo == 0 || flagCalculo == 1)
+					if(flagDistancia == 0 || flagAerolineas == 0 || flagLatam == 0 || flagCalculo == 0 || flagCalculo == 0)
 					{
 						printf("\n\aNo se puede mostrar porque faltan datos por ingresar o no se ha realizado los calculos.\n");
 						printf("\nPor favor, ingrese los datos faltantes o realice los calculos.\n");
