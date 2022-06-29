@@ -1,6 +1,4 @@
 id,name,lastName,flyCode,typePassenger,flightStatus
-1,Lou,Gonzalez,10000.00,FirstClass,BA2491A,Aterrizado
-2,Ulrike,Muaoz,25000.00,FirstClass,IB0800A,Aterrizado
 3,Brade,Rojas,20000.00,FirstClass,MM0987B,En Horario
 4,Kimbell,Diaz,50000.00,FirstClass,BA2491A,Aterrizado
 5,Sheelagh,Perez,18000.00,FirstClass,IB0800A,Aterrizado
